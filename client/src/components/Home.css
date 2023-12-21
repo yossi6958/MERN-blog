@@ -1,0 +1,60 @@
+.home-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .header {
+    background-color: #f8f8f8;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .header-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .featured-section {
+    background-color: #fff;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .featured-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .signup-section {
+    background-color: #f8f8f8;
+    padding: 40px 0;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .signup-section.show {
+    opacity: 1;
+  }
+  
+  .signup-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer a {
+    color: #fff;
+  }
+  

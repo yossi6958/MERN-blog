@@ -1,0 +1,17 @@
+.button:hover {
+    background-color: #762129;
+    color: burlywood;
+    border: 1px solid rgb(0, 0, 0);
+
+    
+  }
+  
+ .button{
+display: flex;
+align-items: center;
+justify-content: center;
+  background-color: burlywood;
+  color: black;
+  border: 1px solid #762129;
+  cursor: pointer;
+ }

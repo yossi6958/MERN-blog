@@ -1,0 +1,27 @@
+#toggle {
+  transition: transform 0.3s ease;
+
+}
+
+#toggle:hover {
+    background-color: burlywood;
+}
+
+.Link:hover {
+  transform: translate(2px, 5%);
+
+}
+.navbar-toggler-icon{
+  transition: transform 0.5s ease; 
+}
+
+.navbar-toggler-icon:hover {
+  transform: rotate(180deg);
+}
+.my-story{
+  transition: transform 0.2s ease;
+}
+.my-story:hover {
+  transform: translate(10px, 0%);
+
+}
